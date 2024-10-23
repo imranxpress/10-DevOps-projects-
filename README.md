@@ -26,8 +26,5 @@ Step-by-Step Implementation (Beginners to Advance Level):
 8. Grafana Setup and How to monitor resources - Part -2.
  : https://ift.tt/kZ18xpb
 
-9. Mount AWS S3 Bucket on Amazon EC2 Linux Using S3FS.
- : https://ift.tt/Pd3M90v
-
-10. Deploy React Django web app, using AWS ECR and ECS.
+9. Deploy React Django web app, using AWS ECR and ECS.
  : https://ift.tt/tuP8eZR
